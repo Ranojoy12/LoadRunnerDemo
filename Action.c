@@ -1,6 +1,6 @@
 Action()
 {
-	//First pull and change.
+	
 	web_rest("POST: https://api.restful-api.dev/collections/products/o...",
 		"URL=https://api.restful-api.dev/collections/products/objects",
 		"Method=POST",
